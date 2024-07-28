@@ -1,9 +1,9 @@
 
 ## Tech-Stack Used: 
-a. Frontend: HTML, CSS, React.js. 
-b. Backend: Python. 
-c. Database: MongoDB. 
-d. Notifications: RabbitMQ. 
+1. Frontend: HTML, CSS, React.js. 
+2. Backend: Python. 
+3. Database: MongoDB. 
+4. Notifications: RabbitMQ. 
 
 ## Available Scripts
 
